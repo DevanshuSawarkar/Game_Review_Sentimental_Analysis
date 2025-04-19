@@ -6,8 +6,8 @@ A machine learning project that analyzes user reviews of Steam games to predict 
 
 ## 😊 Collaborators
 
-- Pratham Agrawal (22070521078)
 - Devanshu Sawarkar (22070521090)
+- Pratham Agrawal (22070521078)
 - Devansh Motghare (22070521076)
 
 ---
@@ -76,7 +76,7 @@ Confusion Matrix and classification metrics are displayed to evaluate model perf
 
 1. Clone this repo:
    ```bash
-   git clone https://github.com/PrathamAgrawal51/Game_Review_Sentimental_Analysis.git
+   git clone https://github.com/DevanshuSawarkar/Game_Review_Sentimental_Analysis.git
    cd steam-review-sentiment-analysis
    ```
 
